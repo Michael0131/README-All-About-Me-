@@ -17,8 +17,6 @@
 
 Here are some of my featured projects:
 
-- **[VyraL](https://github.com/Michael0131/VyraL)** – A social media platform project *(Python, Django)*  
-- **[HowAreYou](https://github.com/Michael0131/HowAreYou)** – A simple social sharing platform *(HTML, Web Dev)*  
 - **[Rust File Encryption/Decryption](https://github.com/Michael0131/Rust_File_Encryption_Decryption)** – Secure file encryption in Rust *(Systems Programming)*  
 - **[Java Weather Data Scraper App](https://github.com/Michael0131/JavaWeatherDataScraperApp)** – A weather data scraping tool *(Java)*  
 - **[NLP Text Analyzer](https://github.com/Michael0131/NLPTextAnalyzer)** – Natural Language Processing project *(R)*  
